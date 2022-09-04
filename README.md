@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m @jlvmoster
-- 👀 I’m interested in cloud computing, security, and blockchain technologies
-- 🌱 I’m currently learning DevOps automation with Terraform infrastructure as code
+- 👀 I’m interested in security, cloud computing, and big data
+- 🌱 I’m currently learning data science and engineering
 - 💞️ I’m looking to collaborate on modern open-source technologies
 - 📫 Feel free to reach me at jlvmoster@gmail.com
 
