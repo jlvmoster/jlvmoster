@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m @jlvmoster
-- 👀 I’m interested in security, cloud computing, and big data
-- 🌱 I’m currently learning data science and engineering
+- 👀 I’m passionate about cloud computing, big data, and software engineering best practices
+- 🌱 I’m currently practicing data science and engineering concepts
 - 💞️ I’m looking to collaborate on modern open-source technologies
 - 📫 Feel free to reach me at jlvmoster@gmail.com
 
